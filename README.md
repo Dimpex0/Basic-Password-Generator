@@ -1,1 +1,1 @@
-# Basic-Password-Generator
+This is a very basic password generator, which writes the generated passwords to a text file.
